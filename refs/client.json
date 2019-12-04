@@ -1,0 +1,33 @@
+{
+    "request_id": "5b610884-370e-c36c-1900-3aa2ca753b60",
+    "lease_id": "",
+    "renewable": false,
+    "lease_duration": 0,
+    "data": null,
+    "wrap_info": null,
+    "warnings": null,
+    "auth": {
+        "client_token": "s.BD5PvbrqOdWA1bcWyAEGtc8l",
+        "accessor": "XQyFszAyeAoSHpMRhrY2LRD3",
+        "policies": [
+            "apps",
+            "default"
+        ],
+        "token_policies": [
+            "apps",
+            "default"
+        ],
+        "metadata": {
+            "role": "demo",
+            "service_account_name": "vault-service-account",
+            "service_account_namespace": "default",
+            "service_account_secret_name": "vault-service-account-token-9fk94",
+            "service_account_uid": "7bb8063b-7f03-4209-9ce8-0501b4097e5d"
+        },
+        "lease_duration": 3600,
+        "renewable": true,
+        "entity_id": "334c6f4c-e9b2-c948-89a3-8555a13f9841",
+        "token_type": "service",
+        "orphan": true
+    }
+}
